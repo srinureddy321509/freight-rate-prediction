@@ -1,0 +1,8 @@
+{
+  "split": "chronological split; cutoff=2025-08-31",
+  "train_rows": 38330,
+  "holdout_rows": 9670,
+  "mae": 151.89054935000834,
+  "rmse": 669.8180403128612,
+  "r2": 0.806657410273798
+}
